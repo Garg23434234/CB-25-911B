@@ -13,6 +13,7 @@ The profit of this website is to aware people of fitness. Ideas that can boost f
     <style>
         body {
             font-family: Arial, sans-serif;
+             bg-color: 
         }
         .container {
             max-width: 800px;
